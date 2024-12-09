@@ -22,3 +22,23 @@ Local Search found. Why is this?
 
 Add the code to run your experiments, graphs, and an explanation of what you did
 to this markdown file.
+
+///
+
+Running time:
+
+The growth curve of held-karp grows exponentially, the complexity grows exponentially with the input scale, and the amount of calculation increases rapidly.
+
+The running time of local search is almost unaffected by the growth of scale, and it shows good adaptability to scale changes. Its complexity mainly depends on the number of exchanges and path length, and changes little with the growth of scale.
+
+Path length:
+
+Held-Karp always finds the optimal solution in all input scales, and its path length is either better than or equal to Local Search. As an exact algorithm, it can find the global optimal solution, and its path length reflects the quality advantage of the solution.
+
+Local Search can find the same optimal path as Held-Karp in small-scale problems, but the path quality decreases significantly when the scale increases. Local Search is a heuristic algorithm. It may find a solution close to the optimal when the scale is small, but it is greatly affected by randomness when the scale increases, and the path length gradually deviates from the optimal value.
+
+###
+
+source: ChatGPT help me with the timeFunction and generateDistanceMatrix
+
+Plagiarism Statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice
