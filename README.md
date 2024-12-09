@@ -26,12 +26,16 @@ to this markdown file.
 ///
 
 Running time:
+![Figure_1](https://github.com/user-attachments/assets/12443a30-e51c-4b38-9e39-4fe3df64b9cf)
+
 
 The growth curve of held-karp grows exponentially, the complexity grows exponentially with the input scale, and the amount of calculation increases rapidly.
 
 The running time of local search is almost unaffected by the growth of scale, and it shows good adaptability to scale changes. Its complexity mainly depends on the number of exchanges and path length, and changes little with the growth of scale.
 
 Path length:
+![Figure_2](https://github.com/user-attachments/assets/6679b386-cf16-494f-be9e-8b82bd34950f)
+
 
 Held-Karp always finds the optimal solution in all input scales, and its path length is either better than or equal to Local Search. As an exact algorithm, it can find the global optimal solution, and its path length reflects the quality advantage of the solution.
 
