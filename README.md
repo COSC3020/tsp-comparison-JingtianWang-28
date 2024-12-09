@@ -43,6 +43,7 @@ Held-Karp always finds the optimal solution in all input scales, and its path le
 
 Local Search can find the same optimal path as Held-Karp in small-scale problems, but the path quality decreases significantly when the scale increases. Local Search is a heuristic algorithm. It may find a solution close to the optimal when the scale is small, but it is greatly affected by randomness when the scale increases, and the path length gradually deviates from the optimal value.
 
+
 ###
 
 source: ChatGPT help me with the timeFunction and generateDistanceMatrix
