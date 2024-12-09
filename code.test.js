@@ -1,5 +1,5 @@
-const { tsp_hk } = require('./hk.js'); // Replace './file.js' with your Held-Karp file path
-const { tsp_ls } = require('./ls.js'); // Replace './file.js' with your Local Search file path
+const { tsp_hk } = require('./hk.js'); 
+const { tsp_ls } = require('./ls.js'); 
 const fs = require('fs');
 function generateDistanceMatrix(size) {
     const matrix = Array.from({ length: size }, () =>
