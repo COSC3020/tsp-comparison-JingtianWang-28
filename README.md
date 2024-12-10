@@ -53,7 +53,7 @@ So I temporarily choose to use other people's algorithm code instead. I used Cad
 
 The analysis results are the same as my previous conclusions.
 
-The charts and data will be updated soon after the run is completed
+The graph and data will be updated soon after the run is completed
 
 
 
