@@ -33,5 +33,12 @@
     "lsTime": 0.0007734,
     "hkLength": 114,
     "lsLength": 354
+  },
+    {
+    "size": 12,
+    "hkTime": 4500.3431525,
+    "lsTime": 0.0022234,
+    "hkLength": 156,
+    "lsLength": 426
   }
 ]
