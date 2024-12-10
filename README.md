@@ -47,7 +47,13 @@ Local Search can find the same optimal path as Held-Karp in small-scale problems
 ///
 
 
+There seems to be some problems with my hk algorithm code. It runs very fast in the case of 1-19 size and meets the analysis of time complexity, but it takes a very long time to run in the case of size = 20. Currently, it has run for more than 6 hours and still has no results. It seems to enter infinite iteration.
 
+So I temporarily choose to use other people's algorithm code instead. I used CadeMaynard's algorithm code for analysis and used my test code.
+
+The analysis results are the same as my previous conclusions.
+
+The charts and data will be updated soon after the run is completed
 
 
 
