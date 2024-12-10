@@ -1,0 +1,44 @@
+[
+  {
+    "size": 4,
+    "hkTime": 0.0005438,
+    "lsTime": 0.0024427,
+    "hkLength": 122,
+    "lsLength": 122
+  },
+  {
+    "size": 6,
+    "hkTime": 0.0144337,
+    "lsTime": 0.0003481,
+    "hkLength": 130,
+    "lsLength": 161
+  },
+  {
+    "size": 8,
+    "hkTime": 0.9193914,
+    "lsTime": 0.0008462,
+    "hkLength": 138,
+    "lsLength": 205
+  },
+  {
+    "size": 10,
+    "hkTime": 134.1314254,
+    "lsTime": 0.0009449,
+    "hkLength": 180,
+    "lsLength": 222
+  },
+  {
+    "size": 11,
+    "hkTime": 1616.9631665,
+    "lsTime": 0.0007734,
+    "hkLength": 114,
+    "lsLength": 354
+  },
+    {
+    "size": 12,
+    "hkTime": 4500.3431525,
+    "lsTime": 0.0022234,
+    "hkLength": 156,
+    "lsLength": 426
+  }
+]
