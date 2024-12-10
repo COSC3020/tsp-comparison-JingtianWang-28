@@ -24,7 +24,7 @@ function timeFunction(fn, distanceMatrix) {
     return { runtime, result };
 }
 
-const sizes = [4, 6, 8, 10, 12, 14, 16];
+const sizes = [4, 6, 8, 10, 12, 14, 16, 18, 20];
 const results = [];
 
 for (const size of sizes) {
