@@ -1,5 +1,5 @@
 const assert = require('assert');
-const { tsp_hk, tsp_ls } = require('./CadeMaynard_s_code.js'); 
+const { tsp_hk, tsp_ls } = require('./code.js'); 
 const fs = require('fs');
 
 
