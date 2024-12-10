@@ -52,10 +52,11 @@ There seems to be some problems with my hk algorithm code. It runs very fast in 
 So I temporarily choose to use other people's algorithm code instead. I used CadeMaynard's algorithm code for analysis and used my test code.
 
 The analysis results are the same as my previous conclusions.
+![Figure_1](https://github.com/user-attachments/assets/b77dbdf8-6b66-4f3b-bc47-8a91440c65bc)
+![Figure_2](https://github.com/user-attachments/assets/ead95da1-f11e-4b9e-9dd1-2d3d6d6cd28c)
 
 
-![Figure_1](https://github.com/user-attachments/assets/ff88f7f0-0220-4de5-932c-ac42d91c3f88)
-![Figure_2](https://github.com/user-attachments/assets/95e142fb-b488-4fbf-b09f-f43d7e4c29e1)
+
 
 
 
