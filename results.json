@@ -1,0 +1,51 @@
+[
+  {
+    "size": 4,
+    "hkTime": 0.000093,
+    "lsTime": 0.0001907,
+    "hkLength": 174,
+    "lsLength": 174
+  },
+  {
+    "size": 6,
+    "hkTime": 0.0002146,
+    "lsTime": 0.0001221,
+    "hkLength": 113,
+    "lsLength": 113
+  },
+  {
+    "size": 8,
+    "hkTime": 0.0010812,
+    "lsTime": 0.0005013,
+    "hkLength": 110,
+    "lsLength": 130
+  },
+  {
+    "size": 10,
+    "hkTime": 0.004447,
+    "lsTime": 0.000119,
+    "hkLength": 63,
+    "lsLength": 63
+  },
+  {
+    "size": 12,
+    "hkTime": 0.0217014,
+    "lsTime": 0.0001273,
+    "hkLength": 124,
+    "lsLength": 194
+  },
+  {
+    "size": 14,
+    "hkTime": 0.1371372,
+    "lsTime": 0.0003108,
+    "hkLength": 178,
+    "lsLength": 214
+  },
+  {
+    "size": 16,
+    "hkTime": 1.0921968,
+    "lsTime": 0.0003784,
+    "hkLength": 117,
+    "lsLength": 177
+  }
+]
