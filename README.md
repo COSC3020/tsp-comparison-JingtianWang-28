@@ -56,6 +56,8 @@ The analysis results are the same as my previous conclusions.
 The graph and data will be updated soon after the run is completed
 
 {
+![Figure_1](https://github.com/user-attachments/assets/ff88f7f0-0220-4de5-932c-ac42d91c3f88)
+![Figure_2](https://github.com/user-attachments/assets/95e142fb-b488-4fbf-b09f-f43d7e4c29e1)
 
 }
 
